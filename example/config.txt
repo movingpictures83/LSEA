@@ -1,0 +1,2 @@
+Prefix plugins/LSEA/example/
+Plugin LSEA inputfile DE.rds outputfile LSEA.rds
